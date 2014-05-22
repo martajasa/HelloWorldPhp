@@ -1,0 +1,10 @@
+google gambar: version control diagram
+google search: cara kerja github
+
+YANG PALING BENERRR:
+http://www.tutorial-webdesign.com/tutorial-git-instalasi-penggunaan-upload-proyek-ke-github/
+------------------------------------------------------------------------
+
+Ini cuma petunjuk, gak terlalu bener:
+http://git-scm.com/book/id/
+http://blog.jflinq.com/2012/06/24/punya-anggota-projek-website-lebih-dari-dua-orang-gunakan-git/
